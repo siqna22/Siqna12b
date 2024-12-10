@@ -1,0 +1,74 @@
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.deps.json
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.sourcelink.json
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\refint\DogsApp.Infrastructure.dll
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Desktop\New folder (2)\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\ref\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.deps.json
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.sourcelink.json
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\refint\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Documents\David 12b\DogApp4\DogProject\DogsApp.Infrastructure\obj\Debug\net6.0\ref\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.deps.json
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.sourcelink.json
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\obj\Debug\net6.0\refint\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Documents\David 12b\DogApp4\DogsApp.Infrastructure\obj\Debug\net6.0\ref\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.deps.json
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.sourcelink.json
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\refint\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Documents\David 12b\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\ref\DogsApp.Infrastructure.dll
+C:\Users\User\Downloads\DogApp5\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.deps.json
+C:\Users\User\Downloads\DogApp5\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.runtimeconfig.json
+C:\Users\User\Downloads\DogApp5\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\User\Downloads\DogApp5\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\User\Downloads\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Downloads\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\User\Downloads\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\refint\DogsApp.Infrastructure.dll
+C:\Users\User\Downloads\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\User\Downloads\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.genruntimeconfig.cache
+C:\Users\User\Downloads\DogApp5\DogsApp.Infrastructure\obj\Debug\net6.0\ref\DogsApp.Infrastructure.dll
